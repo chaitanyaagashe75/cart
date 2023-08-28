@@ -43,6 +43,7 @@ public class CartController {
         }
         // gitu
      // changes made in remote master
-    //chanage made for checking the pushing code from local master to remote branch1 but this is not possile 
+    //chanage made for checking the pushing code from local master to remote branch1 but this is not possile
+    // But We can pull the remote branch code to any branch in the local then push back to whatever the brach we want
     }
 
